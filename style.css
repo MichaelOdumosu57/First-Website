@@ -1,0 +1,16 @@
+h2 {
+	  background-color: #FF0000;
+	  background-image:  url("3-way handshake(0).PNG");
+	  background-repeat: no-repeat
+	  background-attachment: fixed
+	  background-position: right bottom;
+	}
+body {
+	background: #FFCC66 url("butterfly.gif") no-repeat  right bottom;
+	}
+h1 {
+		color: #30FF00;
+		background-color: #FC9804; 
+		
+	}
+	
