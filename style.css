@@ -16,7 +16,7 @@ h2{
 	  text-transform: capitalize;
 	}
 body {
-	background: #FFCC66 url("butterfly.gif") no-repeat  right bottom;
+	background: #FFCC66 url("butterfly.gif") no-repeat  right top;
 	}
 h1 {
 		color: #30FF00;
@@ -44,3 +44,8 @@ a:link {
 		text-decoration:none;
 	}
 	
+	a.bluetime{
+		color:green;
+		text-decoration: underline
+	}
+				
