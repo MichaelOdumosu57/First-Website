@@ -1,16 +1,23 @@
-h2 {
+h2{
 	  background-color: #FF0000;
 	  background-image:  url("3-way handshake(0).PNG");
 	  background-repeat: no-repeat
 	  background-attachment: fixed
 	  background-position: right bottom;
+	  font-family: "Times New Roman", serif; 
+	  font-style: bold;
+	  font-variant: small-caps; 
+	  font-weight: 900;
+	  font-size: 90px;
+		
+	
 	}
 body {
 	background: #FFCC66 url("butterfly.gif") no-repeat  right bottom;
 	}
 h1 {
 		color: #30FF00;
-		background-color: #FC9804; 
+		background: #FC9804 ; 
 		
 	}
 	
