@@ -48,4 +48,16 @@ a:link {
 		color:green;
 		text-decoration: underline
 	}
+	span.benefit {
+		color:red;
+		font-size: 100%
+	}
+	#grey{
+		background:grey;
+	}
+
+	#pearl {
+		background:#00FF99;
+	}
+	
 				
