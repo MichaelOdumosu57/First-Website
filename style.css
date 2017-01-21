@@ -66,5 +66,22 @@ a:link {
 	#pearl {
 		background:#00FF99;
 	}
+	div.box {
+		height: 50px;
+		width: 500px;
+		border: 10px solid black;
+		background: orange;
+	}
+	#this_pict {
+		float: right;
+		width: 500px
+	}
+	div.col {
+		float:left;
+		width: 33%;
+	}
+	p.floatstop {
+		clear: none;
+	}
 	
 				
