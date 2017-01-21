@@ -84,4 +84,22 @@ a:link {
 		clear: none;
 	}
 	
-				
+	#corner_three {
+		color: rgb(121,144,159);
+		positon: absolute;
+		bottom : 10 px;
+		left: 10px
+		
+	}
+	
+	#fan_four {
+		position: relative;
+		bottom: 530px;
+		left:200px;
+	}
+	#fan_five {
+		position: relative;
+		bottom: 3px;
+		left:2px;
+	}
+	
